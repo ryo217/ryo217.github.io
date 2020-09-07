@@ -1,4 +1,4 @@
-@media all and (max-width: 1000px) {
+@media screen and (max-width: 1000px) {
   .top-wrapper h1 {
     font-size: 32px;
   }
@@ -17,7 +17,7 @@
   }
 }
 
-@media all and (max-width: 670px) {
+@media screen and (max-width: 670px) {
   .header-right {
     display:none;
   }
